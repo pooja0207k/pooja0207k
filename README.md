@@ -44,6 +44,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="80" height="80">
 </p>
 
+
+### Cloud
+<p>
+  <img src="https://th.bing.com/th/id/OIP.kY-iKNMB6IHDzoeQlMW3fAHaEK?rs=1&pid=ImgDetMain" alt="docker" width="80" height="80">
+  <img src="https://th.bing.com/th/id/OIP.XQ-zI0Ib-6hWNj_b0Rre5AHaHa?rs=1&pid=ImgDetMain" alt="aws" width="80" height="80">
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="Google_cloud" width="80" height="80">
+</p>
+
 <br>
 
 <p>
