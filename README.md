@@ -62,9 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pooja0207k&show_icons=true&locale=en" alt="pooja_reddy_kadari" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja0207k&" alt="pooja_reddy_kadari" />
-</p>
 
 <div>
   <p>
